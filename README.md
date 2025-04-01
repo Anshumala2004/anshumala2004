@@ -27,28 +27,17 @@
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=anshumala&show_icons=true&theme=radical" 
-       alt="GitHub Stats" 
-       height="180px" 
-       style="margin-right: 10px;"/> 
-  <!-- GitHub Streak -->
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=anshumala&theme=radical" 
-       alt="GitHub Streak" 
-       height="180px" 
-       style="margin-left: 10px;"/> 
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshumala2004&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" style="margin-right: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumala2004&theme=radical" alt="GitHub Streak" height="180px" style="margin-left: 10px;"/>
+</p>
 
 ---
 
 ## 🌐 **Connect With Me**
 <div align="center">
 <h1>
- <a href="http://linkedin.com/in/anshumala"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" 
+ <a href="https://www.linkedin.com/in/anshumala-8a2203272"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" 
  alt="LinkedIn"></a>
   <a href="https://github.com/anshumala2004"><img src="https://img.shields.io/github/followers/anshumala2004?label=follow&style=social" alt="GitHub"></a>
 </h1>
