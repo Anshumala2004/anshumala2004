@@ -43,8 +43,6 @@
 
 </div>
 
----
-
 <div align="center">
   <h3>Thanks for Visiting! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="3%" >  </h3>
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="200%"/>
