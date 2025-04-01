@@ -26,10 +26,22 @@
 ---
 
 ## 📊 **GitHub Stats**
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshumala2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumala2004&theme=radical" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=anshumala&show_icons=true&theme=radical" 
+       alt="GitHub Stats" 
+       height="180px" 
+       style="margin-right: 10px;"/> 
+  <!-- GitHub Streak -->
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=anshumala&theme=radical" 
+       alt="GitHub Streak" 
+       height="180px" 
+       style="margin-left: 10px;"/> 
 </div>
+
 
 ---
 
