@@ -2,7 +2,7 @@
 
 # 🌸 Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
  <h2>Hi, I'm Anshu Mala! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-– a 3rd Year B.Tech CSE student on a journey to innovate, inspire, and create beautiful digital solutions. 
+– A 3rd Year B.Tech CSE student on a journey to innovate, inspire, and create beautiful digital solutions. 
 
 <div style="display: flex; align-items: center;">
   <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
